@@ -61,6 +61,13 @@ I love clean UI, organized backend logic, and smooth deployments.
 </p>
 
 ---
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shagun0622/Shagun0622/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 🚀 Featured Projects
 
