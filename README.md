@@ -1,6 +1,5 @@
-<!-- 🌈 AESTHETIC ANIMATED BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=250&section=header&text=Shagun%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 
