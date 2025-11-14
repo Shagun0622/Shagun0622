@@ -1,114 +1,120 @@
+<!-- 🌌 PREMIUM DARK MODERN HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=250&section=header&text=Shagun%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3B82F6&height=240&section=header&text=Shagun%20Kumari&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </p>
 
+<h2 align="center">Full Stack Developer • MERN Stack • UI/UX Driven</h2>
 
-<h1 align="center">Hi, I'm <b>Shagun Kumari</b> 👋</h1>
-<h3 align="center">✨ Full Stack Developer | MERN Stack | UI/UX Enthusiast</h3>
+<br/>
 
----
-
-## 🌟 About Me  
-I'm a passionate **Full Stack Developer** who builds modern, aesthetic, and scalable web applications.  
-I love clean UI, organized backend logic, and smooth deployments.
-
-✨ **What I Do:**  
-- Build full-stack web apps (MERN)  
-- Create visually appealing UI/UX  
-- Work with cloud platforms (Render, Cloudinary)  
-- Fix bugs & optimize performance  
-
-🚀 **Currently Working On:**  
-- Authentication systems  
-- Real-time chat  
-- Cloud uploads + database models  
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-JavaScript-1E40AF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-UI%2FUX-0EA5E9?style=for-the-badge" />
+</div>
 
 ---
 
-## 🔥 Tech Stack & Tools
+# 🧑‍💻 About Me
+I’m a **Full Stack Developer** who builds clean, modern, and scalable web applications.  
+My work blends strong backend architecture with aesthetic and user-friendly interfaces.
 
+- 💡 Problem-solver with clean code ideology  
+- 🚀 Skilled in building live, real-world projects  
+- 🖥️ Passion for UI/UX, animations & smooth interactions  
+- 🌐 Cloud-ready apps using Render, Cloudinary & MongoDB  
+- 📚 Always improving and learning advanced technologies  
+
+---
+
+# ⚙️ Tech Stack  
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="48" />
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="48" />
 </p>
 
-### **Database**
+### **Database & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-### **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudflare,vercel" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,postman,cloudflare,vercel" height="48" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Projects  
+Here are some of my best works, displayed in modern project cards:
+
+---
+
+## 🎧 **StayEase – Property Booking Platform**
+> A modern booking platform with authentication, filters, and image uploads.  
+**Tech:** Node.js • Express • MongoDB • Cloudinary  
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Deployment-Coming%20Soon-3B82F6?style=for-the-badge" /></a>
+
+---
+
+## 🕶️ **RayBan Animated Product Website**
+> A stylish animated product landing page with smooth transitions.  
+**Tech:** HTML • CSS • JavaScript  
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Preview-Coming%20Soon-1E40AF?style=for-the-badge" /></a>
+
+---
+
+## 🎵 **Spotify UI Clone**
+> A clean & responsive Spotify-inspired web UI.  
+**Tech:** HTML • CSS  
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Preview-Coming%20Soon-0EA5E9?style=for-the-badge" /></a>
+
+---
+
+## ▶️ **YouTube Mini Clone**
+> A minimal YouTube-like UI layout for practice.  
+**Tech:** HTML • CSS • JavaScript  
+<br/>
+<a href="#"><img src="https://img.shields.io/badge/Preview-Coming%20Soon-3B82F6?style=for-the-badge" /></a>
+
+---
+
+# 📊 GitHub Stats (Dark Modern)
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shagun0622&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=Shagun0622&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagun0622&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake (Optional / Add Later)
+> Once your contributions increase, enable the snake animation.  
+(Currently kept disabled because low contributions = blank output.)
+
+---
+
+# 🌐 Connect With Me  
+<div align="center">
+  <a href="https://www.linkedin.com/in/shagun-kumari-21066b318/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Shagun0622">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+
+<br/>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shagun0622&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=Shagun0622&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:111827,100:3B82F6&section=footer" />
 </p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagun0622&layout=compact&theme=tokyonight" />
-</p>
-
----
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shagun0622/Shagun0622/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 **StayEase – Property Booking Web App**
-Modern hotel/property booking platform with cloud image upload, filters & authentication.  
-Tech Used: Node.js, Express, MongoDB, Cloudinary  
-🔗 *Deployment Link:https://stayease-5giw.onrender.com
-
----
-
-### 🔹 **Spotify UI Clone**
-Beautiful responsive music app UI designed with HTML + CSS.  
-
-
----
-### 🔹 **RayBan Animated Website**
-A modern product landing page featuring smooth animations, transitions, and stylish RayBan sunglasses showcase.  
-**Tech Used:** HTML, CSS, JavaScript (GSAP/Scroll animations  used)  
-_
-
----
-
-### 🔹 **YouTube Mini Clone**
-A minimal YouTube-like UI with video cards, thumbnails, and responsive layout.  
-Perfect mini project for practicing CSS grids & JS interactions.  
-**Tech Used:** HTML, CSS, JavaScript  
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shagun-kumari-21066b318/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Shagun0622"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-## 👀 Profile Visitor Count
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shagun0622&label=Visitors&color=0e75b6&style=flat" />
-</p>
-
----
-
-<p align="center">✨ Thanks for visiting! Let’s build something amazing 🚀</p>
