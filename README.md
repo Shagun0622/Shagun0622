@@ -50,11 +50,14 @@ Here are some of my best works, displayed in modern project cards:
 
 ---
 
-## 🎧 **StayEase – Property Booking Platform**
+## 🎧 StayEase – Property Booking Platform
 > A modern booking platform with authentication, filters, and image uploads.  
 **Tech:** Node.js • Express • MongoDB • Cloudinary  
 <br/>
-<a href="https://stayease-5giw.onrender.com"><img src="https://img.shields.io/badge/Deployment-Coming%20Soon-3B82F6?style=for-the-badge" /></a>
+
+<a href="https://stayease-5giw.onrender.com">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-3B82F6?style=for-the-badge">
+</a>
 
 ---
 
