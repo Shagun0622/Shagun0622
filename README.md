@@ -62,28 +62,31 @@ I love clean UI, organized backend logic, and smooth deployments.
 
 ---
 
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shagun0622/Shagun0622/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 **StayEase – Property Booking Web App**
 Modern hotel/property booking platform with cloud image upload, filters & authentication.  
 Tech Used: Node.js, Express, MongoDB, Cloudinary  
-🔗 *Deployment Link:* _(add when ready)_
+🔗 *Deployment Link:https://stayease-5giw.onrender.com
 
 ---
 
 ### 🔹 **Spotify UI Clone**
 Beautiful responsive music app UI designed with HTML + CSS.  
-🔗 *Deployment Link:* _(add when ready)_
+
 
 ---
+### 🔹 **RayBan Animated Website**
+A modern product landing page featuring smooth animations, transitions, and stylish RayBan sunglasses showcase.  
+**Tech Used:** HTML, CSS, JavaScript (GSAP/Scroll animations  used)  
+_
+
+---
+
+### 🔹 **YouTube Mini Clone**
+A minimal YouTube-like UI with video cards, thumbnails, and responsive layout.  
+Perfect mini project for practicing CSS grids & JS interactions.  
+**Tech Used:** HTML, CSS, JavaScript  
 
 ## 🌐 Connect With Me
 
