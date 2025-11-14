@@ -54,7 +54,7 @@ Here are some of my best works, displayed in modern project cards:
 > A modern booking platform with authentication, filters, and image uploads.  
 **Tech:** Node.js • Express • MongoDB • Cloudinary  
 <br/>
-<a href="#"><img src="https://img.shields.io/badge/Deployment-Coming%20Soon-3B82F6?style=for-the-badge" /></a>
+<a href="https://stayease-5giw.onrender.com"><img src="https://img.shields.io/badge/Deployment-Coming%20Soon-3B82F6?style=for-the-badge" /></a>
 
 ---
 
@@ -97,9 +97,7 @@ Here are some of my best works, displayed in modern project cards:
 
 ---
 
-# 🐍 Contribution Snake (Optional / Add Later)
-> Once your contributions increase, enable the snake animation.  
-(Currently kept disabled because low contributions = blank output.)
+
 
 ---
 
