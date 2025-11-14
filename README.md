@@ -1,7 +1,8 @@
 <!-- 🌈 AESTHETIC ANIMATED BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/dZ7z9Vq.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 
 <h1 align="center">Hi, I'm <b>Shagun Kumari</b> 👋</h1>
 <h3 align="center">✨ Full Stack Developer | MERN Stack | UI/UX Enthusiast</h3>
