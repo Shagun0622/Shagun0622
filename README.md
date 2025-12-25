@@ -85,18 +85,6 @@ Here are some of my best works, displayed in modern project cards:
 
 ---
 
-# 📊 GitHub Stats (Dark Modern)
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shagun0622&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=Shagun0622&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagun0622&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
