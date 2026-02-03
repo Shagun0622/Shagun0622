@@ -97,7 +97,7 @@ Minimal YouTube-style layout built for UI practice and responsiveness.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shagun0622&theme=tokyonight&hide_border=true" />
+  
 </p>
 
 
