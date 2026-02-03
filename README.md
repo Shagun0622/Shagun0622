@@ -1,4 +1,4 @@
-\<!-- 🌌 PREMIUM DARK HEADER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3B82F6&height=240&section=header&text=Shagun%20Kumari&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn" />
 </p>
