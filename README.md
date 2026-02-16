@@ -1,71 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=galaxy&color=0:000010,30:0d0630,60:1a0a4a,100:7c3aed&height=260&section=header&text=SHAGUN%20KUMARI&fontSize=58&fontColor=e2d9f3&fontAlignY=45&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20UI%2FUX%20Engineer%20%E2%80%A2%20Backend%20Architect&descSize=15&descAlignY=65&descColor=a78bfa&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:050520,100:0066ff&height=220&section=header&text=SHAGUN%20KUMARI&fontSize=55&fontColor=00cfff&fontAlignY=55&animation=twinkling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00CFFF&center=true&vCenter=true&width=620&lines=%E2%9A%A1+Full+Stack+MERN+Developer;%F0%9F%94%A7+React+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Express;%F0%9F%8E%A8+UI%2FUX+Engineer+%2B+Backend+Architect;%F0%9F%9A%80+Turning+Ideas+Into+Production+Apps" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=🌌+Exploring+the+Full+Stack+Universe;⭐+React+·+Node.js+·+MongoDB+·+Express;🚀+Launching+Production-Ready+Apps;🪐+UI%2FUX+Engineer+%2B+Backend+Architect;✨+Turning+Ideas+Into+Real+Products" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagun-kumari-21066b318/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0d0630?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Shagun0622)
-[![Gmail](https://img.shields.io/badge/GMAIL-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shagun0622@gmail.com)
-![Views](https://komarev.com/ghpvc/?username=Shagun0622&style=for-the-badge&color=7c3aed&labelColor=0d0630&label=VISITORS)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0066ff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagun-kumari-21066b318/)
+[![GitHub](https://img.shields.io/badge/GITHUB-050520?style=for-the-badge&logo=github&logoColor=00cfff)](https://github.com/Shagun0622)
+[![Gmail](https://img.shields.io/badge/GMAIL-0066ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shagun0622@gmail.com)
+![Views](https://komarev.com/ghpvc/?username=Shagun0622&style=for-the-badge&color=0066ff&labelColor=050520&label=VISITORS)
 
 </div>
 
 ---
 
 ```javascript
-  ·  ✦       .             ✦        *       .          ·
-    *     .        ✦                    .         *
-  .    ✦      ·          *    .    ✦         .
+// > INITIALIZING DEVELOPER PROFILE...
 
-  // MISSION LOG — SHAGUN KUMARI
-
-  const DEVELOPER = {
-    mission  : "Full Stack MERN Developer",
-    crew     : [ "React", "Node.js", "Express", "MongoDB", "Tailwind" ],
-    base     : [ "Vercel", "Render", "MongoDB Atlas", "Cloudinary" ],
-    research : [ "System Design", "DSA", "Scalable Architecture" ],
-    comms    : "🟢 Open to roles · internships · collaborations"
-  };
-
-  ·     .        *      ✦        .      *      ✦       .
+const SHAGUN = {
+  role     : "Full Stack MERN Developer",
+  stack    : [ "React", "Node.js", "Express", "MongoDB", "Tailwind" ],
+  deploys  : [ "Vercel", "Render", "MongoDB Atlas", "Cloudinary" ],
+  learning : [ "System Design", "DSA", "Scalable Architecture" ],
+  status   : "🟢 Open to roles · internships · collaborations"
+};
 ```
 
 ---
 
-## 🌠 TECH ARSENAL
+## ⚡ TECH STACK
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-7c3aed?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0d0630?style=flat-square&logo=node.js&logoColor=a78bfa)
-![Express](https://img.shields.io/badge/Express-7c3aed?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d0630?style=flat-square&logo=mongodb&logoColor=a78bfa)
-![Tailwind](https://img.shields.io/badge/Tailwind-7c3aed?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0630?style=flat-square&logo=javascript&logoColor=a78bfa)
-![JWT](https://img.shields.io/badge/JWT-7c3aed?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-0d0630?style=flat-square&logo=vite&logoColor=a78bfa)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-7c3aed?style=flat-square&logo=cloudinary&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0d0630?style=flat-square&logo=vercel&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-7c3aed?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-0d0630?style=flat-square&logo=figma&logoColor=a78bfa)
-![Postman](https://img.shields.io/badge/Postman-7c3aed?style=flat-square&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-0066ff?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-050520?style=flat-square&logo=node.js&logoColor=00cfff)
+![Express](https://img.shields.io/badge/Express-0066ff?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-050520?style=flat-square&logo=mongodb&logoColor=00cfff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0066ff?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-050520?style=flat-square&logo=javascript&logoColor=00cfff)
+![JWT](https://img.shields.io/badge/JWT-0066ff?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-050520?style=flat-square&logo=vite&logoColor=00cfff)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0066ff?style=flat-square&logo=cloudinary&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-050520?style=flat-square&logo=vercel&logoColor=00cfff)
+![Git](https://img.shields.io/badge/Git-0066ff?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-050520?style=flat-square&logo=figma&logoColor=00cfff)
+![Postman](https://img.shields.io/badge/Postman-0066ff?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 MISSION LOG — PROJECTS
+## 🛰️ PROJECTS
 
-<br/>
+### `01` &nbsp; 🏠 StayEase — Travel & Stay Booking Platform
 
-### 🪐 &nbsp; `MISSION 01` &nbsp;·&nbsp; StayEase — Travel & Stay Booking Platform
-
-> *An AirBnB-style full stack platform where travellers can list properties, explore destinations, and book stays — deployed and live in the wild.*
+> *An AirBnB-style full stack platform where travellers can list properties, explore destinations, and book stays — deployed and live.*
 
 - 🔐 End-to-end JWT authentication — register, login, session persistence & protected routes
 - 📸 Cloudinary-powered media pipeline for property image uploads and management
@@ -75,33 +65,29 @@
 
 `Node.js` `Express` `MongoDB` `Mongoose` `Cloudinary` `EJS`
 
-[![LAUNCH](https://img.shields.io/badge/🚀_LAUNCH_SITE-7c3aed?style=for-the-badge&logoColor=white)](https://stayease-5giw.onrender.com)
-
-<br/>
+[![LIVE](https://img.shields.io/badge/%E2%97%88_LIVE_DEMO-0066ff?style=for-the-badge&logoColor=white)](https://stayease-5giw.onrender.com)
 
 ---
 
-### 🌍 &nbsp; `MISSION 02` &nbsp;·&nbsp; CareerConnect — Full Stack MERN Job Portal
+### `02` &nbsp; 💼 CareerConnect — Full Stack MERN Job Portal
 
-> *A dual-role job board built on the MERN stack — job seekers hunt for opportunities while recruiters post openings and manage the entire hiring pipeline.*
+> *A dual-role job board on the MERN stack — seekers hunt opportunities while recruiters post openings and manage the entire hiring pipeline.*
 
 - 👤 Two distinct dashboards — **Job Seeker** and **Recruiter** — each with tailored features
 - 📋 Recruiters can create, edit, delete and track all job listings in real time
-- 📝 Seekers can apply to roles with resume data and monitor application status
+- 📝 Seekers apply to roles with resume data and monitor application status
 - 🔎 Multi-field search and filters by role, location, job type and salary range
 - 🔐 Role-based JWT auth ensures each user only accesses their permitted views
 
 `React` `Node.js` `Express` `MongoDB` `Tailwind CSS` `JWT` `React Router`
 
-[![ORBIT](https://img.shields.io/badge/📁_VIEW_REPO-0d0630?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Shagun0622)
-
-<br/>
+[![REPO](https://img.shields.io/badge/%E2%97%88_VIEW_REPO-050520?style=for-the-badge&logo=github&logoColor=00cfff)](https://github.com/Shagun0622)
 
 ---
 
-### 🛸 &nbsp; `MISSION 03` &nbsp;·&nbsp; SaaS Dashboard — Figma → React
+### `03` &nbsp; 🖥️ SaaS Dashboard — Figma to React
 
-> *A Figma design brought pixel-perfectly to life as a React app — featuring a full auth flow and an interactive dashboard with real API data and live UI behaviors.*
+> *A Figma design brought pixel-perfectly to life as a React app — full auth flow and an interactive dashboard with real API data and live UI behaviors.*
 
 - 🎯 Pixel-accurate landing page built faithfully from Figma design specs
 - 🔐 Complete auth flow with localStorage token, protected routes & logout
@@ -111,20 +97,20 @@
 
 `React` `Vite` `Tailwind CSS` `React Router` `JSONPlaceholder API`
 
-[![LAUNCH](https://img.shields.io/badge/🚀_LAUNCH_SITE-7c3aed?style=for-the-badge&logoColor=white)](https://saas-landing-dashboard-ruddy.vercel.app/)
-[![ORBIT](https://img.shields.io/badge/📁_VIEW_REPO-0d0630?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Shagun0622/saas-landing-dashboard)
+[![LIVE](https://img.shields.io/badge/%E2%97%88_LIVE_DEMO-0066ff?style=for-the-badge&logoColor=white)](https://saas-landing-dashboard-ruddy.vercel.app/)
+[![REPO](https://img.shields.io/badge/%E2%97%88_VIEW_REPO-050520?style=for-the-badge&logo=github&logoColor=00cfff)](https://github.com/Shagun0622/saas-landing-dashboard)
 
 ---
 
-## 🌌 DEEP SPACE STATS
+## 📡 STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shagun0622&show_icons=true&hide_border=true&bg_color=000010&title_color=a78bfa&icon_color=7c3aed&text_color=e2d9f3&ring_color=7c3aed&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shagun0622&show_icons=true&hide_border=true&bg_color=050520&title_color=00cfff&icon_color=0066ff&text_color=ffffff&ring_color=0066ff&include_all_commits=true&count_private=true" height="160"/>
 &nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shagun0622&layout=compact&hide_border=true&bg_color=000010&title_color=a78bfa&text_color=e2d9f3" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagun0622&layout=compact&hide_border=true&bg_color=050520&title_color=00cfff&text_color=ffffff&langs_count=6" height="160"/>
 
-<img src="https://streak-stats.demolab.com/?user=Shagun0622&hide_border=true&background=000010&stroke=7c3aed&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa&sideLabels=e2d9f3&currStreakNum=ffffff&sideNums=e2d9f3&dates=666688" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=Shagun0622&hide_border=true&background=050520&stroke=0066ff&ring=00cfff&fire=0066ff&currStreakLabel=00cfff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=444466" height="160"/>
 
 </div>
 
@@ -132,8 +118,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=galaxy&color=0:7c3aed,50:1a0a4a,100:000010&height=150&section=footer&text=AD+ASTRA+PER+CODICEM&fontSize=22&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
-
-<sub>✨ To the stars, through code ✨</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:050520,100:000000&height=120&section=footer&text=BUILD.+SHIP.+REPEAT.&fontSize=20&fontColor=00cfff&fontAlignY=65&animation=twinkling" />
 
 </div>
