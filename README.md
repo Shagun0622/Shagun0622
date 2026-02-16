@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,35:0f2d52,70:1a4a8a,100:3B82F6&height=300&section=header&text=Shagun%20Kumari&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20UI%2FUX%20Engineer%20%E2%80%A2%20Backend%20Architect&descSize=16&descAlignY=58&descColor=bfdbfe&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,70:6d28d9,100:a855f7&height=300&section=header&text=Shagun%20Kumari&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%E2%80%A2%20UI%2FUX%20Engineer%20%E2%80%A2%20Backend%20Architect&descSize=16&descAlignY=58&descColor=e9d5ff&animation=fadeIn" />
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+Shagun+Kumari;Full+Stack+MERN+Developer;React+%2B+Node.js+%2B+MongoDB+%2B+Express;Building+Real-World+Production+Apps+🚀;UI%2FUX+Focused+—+Beautiful+%26+Functional;Always+Learning+%2C+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=a855f7&center=true&vCenter=true&width=680&lines=👋+Hi%2C+I'm+Shagun+Kumari;Full+Stack+MERN+Developer;React+%2B+Node.js+%2B+MongoDB+%2B+Express;Building+Real-World+Production+Apps+🚀;UI%2FUX+Focused+—+Beautiful+%26+Functional;Always+Learning+%2C+Always+Building" />
 </p>
 
 <br/>
@@ -18,7 +18,7 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shagun0622@gmail.com)
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Shagun0622&style=for-the-badge&color=1d4ed8&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Shagun0622&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
@@ -123,7 +123,7 @@ const shagun = {
 | 📱 Design | Fully responsive across all screen sizes |
 
 <a href="https://stayease-5giw.onrender.com">
-  <img src="https://img.shields.io/badge/🌐  Live Demo-3B82F6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐  Live Demo-7c3aed?style=for-the-badge&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -181,7 +181,7 @@ const shagun = {
 | ♻️ Code | Reusable Button, Input, Card, Modal components |
 
 <a href="https://saas-landing-dashboard-ruddy.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐  Live Demo-3B82F6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌐  Live Demo-7c3aed?style=for-the-badge&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Shagun0622/saas-landing-dashboard">
@@ -197,13 +197,13 @@ const shagun = {
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shagun0622&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=60A5FA&icon_color=3B82F6&text_color=e2e8f0&ring_color=3B82F6" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shagun0622&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a855f7&icon_color=7c3aed&text_color=e2e8f0&ring_color=7c3aed" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shagun0622&layout=compact&hide_border=true&bg_color=0d1117&title_color=60A5FA&text_color=e2e8f0" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shagun0622&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=e2e8f0" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shagun0622&hide_border=true&background=0d1117&stroke=1d4ed8&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=e2e8f0&dates=64748b" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=Shagun0622&hide_border=true&background=0d1117&stroke=6d28d9&ring=7c3aed&fire=a855f7&currStreakLabel=a855f7&sideLabels=e2e8f0&currStreakNum=ffffff&sideNums=e2e8f0&dates=64748b" height="170"/>
 </p>
 
 <br/>
@@ -259,5 +259,5 @@ const shagun = {
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:1a4a8a,100:0f172a&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=bfdbfe&fontAlignY=65&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6d28d9,100:0f0c29&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=e9d5ff&fontAlignY=65&animation=fadeIn" />
 </p>
