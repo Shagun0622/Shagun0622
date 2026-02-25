@@ -106,9 +106,6 @@ const SHAGUN = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shagun0622&show_icons=true&hide_border=true&bg_color=050520&title_color=00cfff&icon_color=0066ff&text_color=ffffff&ring_color=0066ff&include_all_commits=true&count_private=true" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagun0622&layout=compact&hide_border=true&bg_color=050520&title_color=00cfff&text_color=ffffff&langs_count=6" height="160"/>
 
 <img src="https://streak-stats.demolab.com/?user=Shagun0622&hide_border=true&background=050520&stroke=0066ff&ring=00cfff&fire=0066ff&currStreakLabel=00cfff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=444466" height="160"/>
 
