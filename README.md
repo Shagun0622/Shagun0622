@@ -1,13 +1,30 @@
-# 💫 About Me
-- 🔭 Working on **Multi-Agent AI Interview**
-- 🌱 Learning **MERN Stack, AWS & DSA**
+<h1 align="center">Hi, I'm Shagun 👋</h1>
+<p align="center">Full-stack developer · Building agentic AI · Open to opportunities</p>
+
+<p align="center">
+  <a href="https://shagun-portfolio-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shagun-kumari-21066b318/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shagun.kumari.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+### 💫 About
+- 🔭 Building a **Multi-Agent AI Interview** platform
+- 🌱 Learning **AWS & DSA**
 - 💬 Ask me about **React, Node.js & MongoDB**
 
-## 🌐 Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-00CFFF?logo=vercel&logoColor=white)](https://shagun-portfolio-eight.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shagun-kumari-21066b318/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shagun.kumari.work@gmail.com)
+### 🛠️ Stack
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white"/>
+</p>
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Shagun0622&theme=dark&hide_border=true)
-![](https://streak-stats.demolab.com/?user=Shagun0622&theme=dark&hide_border=true)
+### 📊 GitHub Stats
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Shagun0622&theme=tokyonight&hide_border=true&show_icons=true"/>
+  <img height="160" src="https://streak-stats.demolab.com/?user=Shagun0622&theme=tokyonight&hide_border=true"/>
+</p>
